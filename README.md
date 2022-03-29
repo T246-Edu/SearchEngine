@@ -5,21 +5,21 @@
     <center>
     <h3>To try it follow the following steps:<br></h1>
         <ol>
-    &nbsp&nbsp&nbsp&nbsp<li> Install XAMP from <a href="https://www.apachefriends.org/download.html"><b>XAMP installation page</b></a></li>
-    &nbsp&nbsp&nbsp&nbsp<li> open the XAMP control panel and start the apache and MySQL.</li> 
-    &nbsp&nbsp&nbsp&nbsp<li> go to the htdocs folder and in xamp installation folder (usually, 'C:\xampp\htdocs') and put the SearchEngine folder inside it.</li> 
-    &nbsp&nbsp&nbsp&nbsp<li> go to "xampp\apache\conf\extra" and open the file "httpd-vhosts.conf" and add a virtual host like this:<br>
-    &nbsp&nbsp&nbsp&nbsp &lt;VirtualHost *:80&gt;<br>
-        &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp##ServerAdmin webmaster@dummy-host2.example.com<br>
-        &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspDocumentRoot "C:\xampp\htdocs\SearchEngine"<br>
-        &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspServerName Search-Engine<br>
-        &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp##ErrorLog "logs/dummy-host2.example.com-error.log"<br>
-        &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp##CustomLog "logs/dummy-host2.example.com-access.log" common<br>
-        &nbsp&nbsp&nbsp&nbsp&lt;VirtualHost&gt;<br></li> 
-    &nbsp&nbsp&nbsp&nbsp<li>  go to "C:\Windows\System32\drivers\etc" and open 'hosts' file and at the end of the file 127.0.0.1 Search-Engine.local</li> 
-    &nbsp&nbsp&nbsp&nbsp<li>  open your browser and go to "http://localhost/phpmyadmin" and create a database called "mydb"</li> 
-    &nbsp&nbsp&nbsp&nbsp<li> go to the import section on php myadmin and upload the two files excell data from the data folder.</li> 
-    &nbsp&nbsp&nbsp&nbsp<li> in your browser go to localhost, it will open the search engine, search for the item you added in the DB<br></li> 
+  <li> Install XAMP from <a href="https://www.apachefriends.org/download.html"><b>XAMP installation page</b></a></li>
+  <li> open the XAMP control panel and start the apache and MySQL.</li> 
+  <li> go to the htdocs folder and in xamp installation folder (usually, 'C:\xampp\htdocs') and put the SearchEngine folder inside it.</li> 
+  <li> go to "xampp\apache\conf\extra" and open the file "httpd-vhosts.conf" and add a virtual host like this:<br>
+   &lt;VirtualHost *:80&gt;<br>
+      ##ServerAdmin webmaster@dummy-host2.example.com<br>
+      DocumentRoot "C:\xampp\htdocs\SearchEngine"<br>
+      ServerName Search-Engine<br>
+      ##ErrorLog "logs/dummy-host2.example.com-error.log"<br>
+      ##CustomLog "logs/dummy-host2.example.com-access.log" common<br>
+      &lt;VirtualHost&gt;<br></li> 
+  <li>  go to "C:\Windows\System32\drivers\etc" and open 'hosts' file and at the end of the file 127.0.0.1 Search-Engine.local</li> 
+  <li>  open your browser and go to "http://localhost/phpmyadmin" and create a database called "mydb"</li> 
+  <li> go to the import section on php myadmin and upload the two files excell data from the data folder.</li> 
+  <li> in your browser go to localhost, it will open the search engine, search for the item you added in the DB<br></li> 
             </ol>
     </center>
     <div align="center">
