@@ -38,7 +38,9 @@
           <?php
           $results = [];
           if ($_SERVER["REQUEST_METHOD"] == "POST") {
+            $query = "SELECT * FROM data";
             $connection = TABLEConnection("mydb");
+            $searchResult = mysqli_query($connection, $query);
             if (isset($_POST["search"]) && (!empty($_POST["search"]))) {
               $search  = explode(" ", test_input($_POST["search"], "mydb"));
               $length = sizeof($search);
@@ -50,8 +52,6 @@
               }
               if ($counter == $length) {
                 foreach ($search as $searchquery) {
-                  $query = "SELECT * FROM data";
-                  $searchResult = mysqli_query($connection, $query);
                   $searchNeeded = [];
                   foreach ($searchResult as $sr) {
                     $Names = explode(" ", $sr["COL 1"]);
@@ -81,40 +81,6 @@
           }
           ?>
           <?php
-          function array_sort($array, $on, $order = SORT_DESC)
-          {
-            $new_array = array();
-            $sortable_array = array();
-
-            if (count($array) > 0) {
-              foreach ($array as $k => $v) {
-                if (is_array($v)) {
-                  foreach ($v as $k2 => $v2) {
-                    if ($k2 == $on) {
-                      $sortable_array[$k] = $v2;
-                    }
-                  }
-                } else {
-                  $sortable_array[$k] = $v;
-                }
-              }
-
-              switch ($order) {
-                case SORT_ASC:
-                  asort($sortable_array);
-                  break;
-                case SORT_DESC:
-                  arsort($sortable_array);
-                  break;
-              }
-
-              foreach ($sortable_array as $k => $v) {
-                $new_array[$k] = $array[$k];
-              }
-            }
-
-            return $new_array;
-          }
           $GLOBALS["results"] = unique_multidim_array($GLOBALS["results"], "item");
           if ($GLOBALS["results"] == []) {
             echo "<h1>No results found.</h1>";
