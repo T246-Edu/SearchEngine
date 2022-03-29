@@ -19,11 +19,11 @@
     &nbsp&nbsp&nbsp&nbsp6- open your browser and go to "http://localhost/phpmyadmin" and create a database called "mydb"<br>
     &nbsp&nbsp&nbsp&nbsp7- go to the import section on php myadmin and upload the two files excell data from the data folder.<br>
     &nbsp&nbsp&nbsp&nbsp8- in your browser go to localhost, it will open the search engine, search for the item you added in the DB<br><br>
-        <div align = "center"><img src="https://i.ibb.co/vjbgQ6f/simple-search-engine.png" alt="simple-search-engine" border="0"></div>
     </center>
     <div align="center">
         <p>The bot in the analysis bot folder is for analysing the data that I extracted in the finished folder. I got the data from <a href="http://www.20000-names.com/">20000 Names website.</a></p>
     </div>
+    <div align = "center"><img src="https://i.ibb.co/vjbgQ6f/simple-search-engine.png" alt="simple-search-engine" border="0"></div>
 </body>
 
 </html>
