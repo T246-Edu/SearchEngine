@@ -1,0 +1,703 @@
+AALI, sublime.
+ABBAS, father.
+ABD, servant, slave.
+ABDAL, servant of the.
+ABDALLAH, servant of God.
+ABD-ALLAH, servant of God.
+ABDALLATIF, servant of the genteel one.
+ABDALMALEK, servant of the king or master. 
+ABD-AL-MALIK, servant of the king.
+ABD-AL-MUMIN, servant of the believer.
+ABDALRAHMAN, servant of the compassionate one.
+ABD-AL-WAHHAB, servant of the giver.
+ABDEL, servant of the.
+ABD-EL-KADER, servant of the powerful.
+ABD-EL-KADIR, servant of the powerful.
+ABD-EL-MALEK, servant of the king.
+ABD-EL-MOOTTALIB, servant of Moottalib, or, servant of the demander.
+ABD-EL-MOTTALIB, servant of Mottalib, or, servant of the demander.
+ABD-EL-QADIR, servant of the powerful.
+ABDERRAHMAN, servant of the compassionate.
+ABD-ER-RAHMAN, servant of the compassionate.
+ABDOL-MOTALLEB, servant of Motalleb, or, servant of the demander.
+ABDSHEMS, servant of Shemesh, or, servant of the sun.
+ABDSHEMSASLAM, a suitable servant of Shemesh.
+ABDUL-MALIK, servant of the king.
+ABDUL-MUMEN, servant of the believer.
+ABDUL-MUTTALIB, servant of Motalleb, or, servant of the demander.
+ABDULAZIZ, servant of the esteemed one.
+ABDULLAH, servant of God.
+ABD-UL-LATEEF, servant of the genteel.
+ABDUL-LATIF, servant of the genteel.
+ABD-UL-LATIF, servant of the genteel.
+ABDURRHAMAN, servant of the compassionate.
+ABID, an adorer, or servant of.
+ABIYATEH, the son of Tehar.
+ABLA, producer of expansion.
+ABLAH, producer of expansion.
+ABUBAKAR, father of the camel.
+ABYAN, clear, evident, obvious.
+AD, in Arabian history, the grandson of Ham.
+ADEL, equitable, just.
+
+ADHAM, a horse of a black colour, inclining to a dusky green.
+
+ADIACRAS, king of the Libyans.
+
+ADIL, equitable, just.
+
+ADNAN, engrafted.
+
+AFEEF, chaste.
+
+AFIF, chaste.
+
+AFZAL, chief, most excellent, principal.
+
+AHMAD, commendable.
+
+AHMED, commendable.
+
+AIMU, Aym ("mighty").
+
+AKBAR, the greatest.
+
+AKBARU, the greatest.
+
+AKEEM, wise.
+
+AKMAL, most complete.
+
+AL, the.
+
+ALAA, God par excellence.
+
+ALA AL-DIN, glory of the faith.
+
+ALADDIN, glory of the faith.
+
+AL-ALEM, the one who knows everything.
+
+ALAMLUK, a king of Saboea.
+
+AL-AZIZ, the esteemed one.
+
+ALDEBARAN, the follower.
+
+ALEM, one who knows everything.
+
+ALI, high; sublime.
+
+ALIM, one who knows everything.
+
+AL-KARIM, the bountiful one, or, the noble one.
+
+ALLAH, God.
+
+ALLAH TAALA, the Supreme God.
+
+ALLAMU, the omniscient.
+
+ALMAKAH, Venus.
+
+ALMOSHTARI, the planet Jupiter.
+
+ALOHNIM, the Gods.
+
+AL-QADIR, the powerful.
+
+AMAL, hope.
+
+AMEEN, faithful.
+
+AMEER, prince, or, abundant.
+
+AMIN, faithful.
+
+AMĪR, ῾ĀMIR, commander, or, abundant.
+
+AMIT, death.
+AMMANAS, (a measure); a South Arabian divinity.
+
+AMMULADI, king of Kedar.
+
+AMRAN, of kin to the exalted one.
+
+ANIS, a friend, comrade, familiar acquaintance.
+
+ANWAR, lights.
+
+AQIL, intelligent, quiet, well-trained.
+
+ASAD, lion.
+
+ASIF, strong, violent (wind); stormy, blowing.
+
+ASIM, guardian, protector.
+
+ASLAM (اسلم), better, more suitable, sounder.
+
+ATALLAH, a look-out place.
+
+ATARED, Mercury.
+
+ATIYA, gift, giving.
+
+AYMAN, righteous.
+
+AZAD, free.
+
+AZAZIL, removed, separated.
+
+AZHAR, bright, clear, splendid.
+
+AZIZ, esteemed, estimable.
+
+AZRAEL, help of God.
+
+ΆZRÁ'ÍL, help of God.
+
+BAB, gate, gateway, or court.
+
+BABA, father.
+
+BADR, full moon.
+
+BAHA, the ineffable splendor.
+
+BAKR, cow, or, a young he-camel.
+
+BAQIR, abounding in knowledge.
+
+BARAKAT, blessings.
+
+BARKAN, barragan, a kind of coarse, black woollen garment of Moorish manufacture.
+
+BÁSIM, a smile.
+
+BASIR, seer.
+
+BASIT, one who enlarges.
+
+BASSAM, smiling greatly.
+
+BEDR, full moon.
+BIL, ("The Lord"); a Himyaritic deity.
+BILAL, moisture, or, beneficence.
+BIRDADDA, Birvul, king of Arabia.
+BIRVUL, Birdadda, a king of Arabia.
+BOTROS, a rock.
+BOULOS, small.
+BOUTROS, a rock.
+BRAHEEM, father of a multitude.
+BRAHIM, father of a multitude.
+BUDUIL, king of the Ammonites.
+BULUS, small.
+BUTRUS, a rock.
+CODAR EL AHMAR, a wicked man of Thamud.
+DAOOD, beloved.
+DAUD, beloved.
+DAWOOD, beloved.
+DAWUD, beloved.
+DENEB, the tail.
+DHAMAR, the Protector.
+Dhamarali-Bayyin, a king of the Himyarites.
+Dhamarali-Dharah, a king of the Himyarites.
+DHARAH, Excellent.
+DHU-ANUSCOUR, The Vultures Man.
+DHU-KHOLOSA, Lord of Kholosa.
+DHU-L-CALAT, an Arabian deity worshipped at Sendad.
+DHU-MAHDAM, the father of Shoaib.
+DHU-RIASH, Lord of Riash.
+DHU-SAMAWI, a Himyaritic deity.
+DHU-SHARA, Lord of Seir; Dulshara.
+DIDI, Taiti.
+DIYA, clearness, glare, luminary; light.
+DJAHLAH, a noble Himyaritic chief of the house of Mudad.
+DJENDIB, a king of the Arabs.
+DJONDA, a wicked king of the Thamudites.
+DULSHARA, Lord of Mount Seir.
+ELGA, the Lofty God.
+EL, the God.
+EMIN, faithful.
+EMIR, prince, commander.
+ESMAIL, God will hear.
+FADI, redeemer, an attribute of Christ
+FADIL, learned, virtuous.
+FADL, learned, virtuous.
+FAHD, leopard, lynx.
+FAHIM, acute of understanding; an intellectual.
+FAIRUZ, turquoise.
+FAIZ, abundance, exuberance.
+FAIZA, victorious.
+FAKHR, glory.
+FAKHRI, glorious, meritorious.
+FARAG, comfort, release, succour.
+FARAJ, comfort, release, succour.
+FARAM-YANHAB, a Himyaritic king of Saba and Dhu-Raidan.
+FAREED, unique.
+FARID, unique.
+FARIS, horseman.
+FAROOQ, distinguisher.
+FAROUK, distinguisher.
+FARUQ, divider, distinguisher.
+FATHI, conqueror.
+FAWZI, victory.
+FAYIZ, superiority, victory.
+FAYRUZ, turquoise.
+FAYSAL, judge.
+FIHR, stone.
+FIKRI, reflection, thought.
+FIRDAUS, paradise.
+FIRDOS, paradise.
+FIRDOUS, paradise.
+FIROZ, victorious.
+FIRUZ, victorious.
+FOUAD, the heart; the mind, the soul.
+FUAD, the heart; the mind, the soul.
+GÁBIR, a despot, a tyrant; a surgeon.
+GAFAR, escort, guard.
+GALAL, glory, majesty.
+GAMAL, beauty, gracefulness.
+GAMAR, a confederate chief.
+GAMIL, beautiful.
+GAUTMAR, a confederate chief.
+GAWAHIR, gems, jewels.
+GAWDAT, benignity.
+GHALIB, conqueror.
+GHARIB, foreigner.
+GHASSAN, of the kingdom of the Ghassanids.
+GHAYTH, rain or showers.
+GHAZA-HADJ, Himyar, a son of Abdshems.
+GHUFRAN, pardon, remission.
+GIAFFAR, splendid.
+GINDIBUH, an Arabian chief.
+HABANAMRU, the king of Buda or Budahu.
+HABIB, friend.
+HABITZU, a King of Kadesh.
+HADI, guide, leader.
+HADIL, cooing of doves.
+HAFEEZ, custodian, or, one who knows the Koran by heart.
+HAFIZ, custodian, or, one who knows the Koran by heart.
+HAGAR, stone.
+HAIDAR, lion.
+HALAKAMIR, a king of the Himyarites.
+HAMEED, laudable.
+HAMID, commendable.
+HAMZA, lion.
+HANI, congratulate, felicitate, welcome.
+HANIF, a true believer.
+HANUN, the name of three kings of Gaza.
+HARITH, bread-winner, gainer.
+HAROUN, light; or, mountaineer.
+HARÚN, light; or, mountaineer.
+HASAN, handsome.
+HASHIM, munificent.
+HASIB, calculator.
+HASIM, guardian, protector.
+HASSAN, handsome.
+HASSIB, calculator.
+HATIM, black crow.
+HAUBAS, The Shining.
+HAYDER, lion.
+HAYTHAM, true.
+HAZAEL, he sees God, or, whom God watches over.
+HAZAIL, a king of the Hedjaz.
+HESHAM, munificent.
+HEYDAR, lion.
+HIKMAT, wisdom.
+HIMYAR, the Red.
+HISEIN, handsome.
+HISHAM, munificent.
+HOBAL, a form of the Sun-god (?).
+HOSNI, handsome.
+HOUSSAM, sword-blade.
+HSEN, handsome.
+HUD, a prophet.
+HUSAIN, handsome
+HUSAM, sword-blade.
+HUSAYN, handsome.
+HUSNI, handsome.
+HUSSAIN, handsome.
+HUSSEIN, handsome.
+HYDER, lion.
+IBLIS, despair.
+IBRAHEEM, father of a multitude.
+IBRAHIM, father of a multitude.
+IHAB, a gift.
+IHSAN, a kind act; benefaction.
+IKRAAM, respect.
+IKRAM, respect.
+IL, God.
+ILA, vow.
+ILDERIM, lightning.
+IL-MAKAH, the God that Hears.
+IL-SHARAH, a king of the Himyarites.
+IL-SHARAH-YADHAB, a petty king of Saba.
+ILYAS, Elias.
+IMAD, pillar.
+IMAM, chief, guide.
+IMRAN, of kin to the exalted one.
+IMTIYAZ, brilliants.
+INAAM, a gift.
+INARUS, a petty king of Libya.
+IQBAL, good fortune, prosperity.
+IRFAN, knowledge, learning, science.
+ISA, Jesus.
+ISAFF, a form of the solar deity.
+ISAM, protection.
+ISH-MA-BAAL, Man of Baal.
+ISMAIL, God will hear.
+ISMAT, innocence.
+ISSA, Jesus.
+ITHAMAR, a king of the Sabaeans.
+I'TIMAD, trust.
+IZRAIL, help of God.
+IZZ-AL-DIN, glory of religion.
+IZZ-UD-DIN, glory of religion.
+JABBAR, stout, or, sturdy one.
+JABIR, despot, tyrant, or, surgeon.
+JABR, constrainer; or, despot, tyrant.
+JABRIL, Gabriel.
+JAFAR, escort, guard.
+JAFFAR, escort, guard.
+JALAL, glory, majesty.
+JAMAAL, beauty, gracefulness.
+JAMAL, beauty, gracefulness.
+JAMEEL, beautiful.
+JAMIL, beautiful.
+JAWAHIR, gems, jewels.
+JAWDAT, benignity.
+JAWHAR, gems, jewels.
+JIBRAIL, Gabriel.
+JIBRIL, Gabriel.
+JINAN, gardens.
+JINN, a series of spiritual beings.
+JORHAM, the son of Djahla.
+JUMAN, pearl.
+JUNAID, warrior.
+JUNAYD, warrior.
+KADER, able, capable, powerful.
+KADIR, able, capable, powerful.
+KADU-MALKA, Qavus-Malka.
+KADU-MUH, a king of Edom.
+KAFFIR, infidel, unbeliever.
+KAHIN, diviners.
+KAHLAN, the son of Abdshems.
+KAHTAN, the father of Yarub.
+KALIL, a sincere and intimate friend.
+KAMAL, perfection.
+KAMIL, the perfect.
+KAPUR, a king of the Meshwesh (Mashuash).
+KARAM, generosity.
+KAREEM, bountiful, or, noble.
+KARIBAIL-BAYYIN, a king of the Himyarites.
+Karibail-watr-yahanam, a king of the Himyarites.
+KARIM, bountiful, or, noble.
+KEBIR, great.
+KHALEEL, a sincere and intimate friend.
+KHALID, eternity, perpetuity.
+KHALIFA, caliph.
+KHALIL, a sincere and intimate friend.
+KHALIQ, creator.
+KHANUNU, a king of Gaza.
+KHAYRAT, charities, good works.
+KHAYRI, good.
+KHAYYAM, tent-maker.
+KHULDJAN, a wicked king of the Adites.
+KISMAT, allotment.
+KISU, the king of Haldile.
+KITZU, a king of Kaldili.
+KOSAI, a leader of the Beni-Koreish.
+KULAL, The Perfect.
+LAILE, the king of Yedih.
+LATEEF, genteel.
+LATIF, genteel.
+LOKMAN, the founder of the second great Adite nation.
+LUKAGM, the son of Lokman.
+LUTFI, harmless.
+MAAD, the son of Adnan, king of the Hedjaz.
+MAHFUZ, defended, preserved.
+MAHMOOD, praiseworthy.
+MAHMOUD, praiseworthy.
+MAHMUD, praiseworthy.
+MAHOMET, praiseworthy.
+MAKRAM, honourable, noble.
+MALAK, angel.
+MALEK, king.
+MÂLEK, master.
+MALEK-TAUS, a deity adored by the Yezedees.
+MALIK, king.
+MANAFF, an Arabian god, possibly of the sun.
+MANSAKA, a king of Magalani.
+MANSAKIR, a king of Marabanu.
+MANSOOR, victorious.
+MANSUR, victorious.
+MARAIU, a Libyan chief.
+MARMAR, marble.
+MASHAKEN, a Libyan chief.
+MASHASHAR, the son of Kapur.
+MASOOD, chance.
+MASOUD, chance.
+MASSOUD, chance.
+MASUD, chance.
+MAZIN, vetch (?)
+MEHMOOD, praiseworthy.
+MEHMUD, praiseworthy.
+MELEK, king.
+MELIK, king.
+MERIKH, Mars.
+METTA, Matthew.
+MIDHAT, a praiseworthy action.
+MHÁMMED, praiseworthy.
+MIRRIKH, Mars.
+MOHAMED, praiseworthy.
+MOHAMMAD, praiseworthy.
+MOHAMMED, praiseworthy.
+MOOTTALIB, demand, request.
+MOSTAFA, elect.
+MOTALLEB, demand, request.
+MOUSA, Moses.
+MUDAD, the chief of a Jorhamite tribe.
+MUHAMMAD, praiseworthy.
+MUHAMMED, praiseworthy.
+MUHSIN, giver, granter.
+MUJAHID, industrious.
+MUKHTAR, chosen.
+MUMIN, a believer (in religious matters).
+MUNIM, benefactor.
+MUNIR, beaming.
+MUSA, Moses.
+MUSAD, lucky.
+MUSTAFA, elect.
+MUSTAPHA, elect.
+MU'TAMID, trustworthy.
+MU'TASIM, servant.
+MUTTALIB, demand, request.
+NABIL, excellent, ingenious; or, noble.
+NADER, rare, singular, uncommon.
+NADIR, rare, singular, uncommon.
+NAGI, deliverer, savior.
+NAGIB, noble, hero.
+NA'IL, one who attains his desires; a winner.
+NA'IM, repose, rest, sleep
+NAJI, a saviour, a deliverer.
+NAJIB, noble, hero.
+NAKARAH, a deity of the Himyarites.
+NASEER, assistant, defender.
+NASHWAN, elated.
+NASIB, orig. related by blood, later related by marriage.
+NASIM, the zephyr.
+NASIR, assistant, defender.
+NASR, Eagle.
+NASSER, assistant, defender.
+NIKHARU, the king of Gahupani.
+NIMA, blessed.
+NIZAR, slender, subtile, thin.
+NOMAN, a king of Sabæa.
+NOOR, light.
+NOUHA, lamenting.
+NUH, Noah; (lamenting).
+NUHA, lamenting.
+NUR, light.
+NURAY, the father of Vaiteh.
+NUREDDIN, light of the faith or religion.
+
+OLEK, great.
+
+OMAR, cultivated; abundant, rich.
+
+OSAMA, lion-like.
+
+OSMAN, baby bustard.
+
+OTHMAN, baby bustard.
+
+PEDUIL, Buduil.
+
+QADIR, able, capable, powerful.
+
+QASIM, distributor.
+
+QAVUS-GABRI, a king of Edom.
+
+QAVUS-MALKA, a king of Edom.
+
+QUSAY, distant.
+
+RAAD, RA'D, thunder.
+
+RABI, spring.
+
+RAFIQ, friend, helper; kind, merciful.
+RAHAT,  ease, repose, quiet.
+RAHEEM, merciful.
+RAHIM, merciful.
+RAHMAN, the merciful.
+RAIS, chief.
+RAJA, hope; prayer, supplication.
+RASHAD, rightly guided.
+RASHEED, rightly guided.
+RASHID, rightly guided.
+RASIM, one who investigates.
+RASUL, apostle.
+RAYAM, an unidentified Himyaritic deity.
+RAZA, content.
+RIAD, garden.
+RIAZ, garden.
+RIDA, accordance, complacence.
+RIDWAN, one who satisfies.
+RIZWAN, one who satisfies.
+RODHA, an obscure Arabian deity.
+RÛBA, needs, wants.
+SAADI, fortunate.
+SABA, wine imbiber.
+SABAH, the dawn, the morning.
+SAC-SAC, a king of Sabaea.
+SADAM, confronter
+SADDAM, confronter
+SÁDI, fortunate.
+SAFI, in health, stout.
+SAID, SA'D, lucky, fortunate.
+SAIF, sword.
+SAIF-AD-DIN, sword of the faith.
+SAIFULLAH, sword of Allah.
+SAJJAD, bowing the head in adoration.
+SAKHR, rock.
+SALADIN, mission of the Faith.
+SALAH, mission.
+SALAH-AL-DIN, mission of the Faith.
+SALAH-ED-DIN, mission of the Faith.
+SALAH-EDDIN, mission of the Faith.
+SALEEM, peace, safety.
+SALEH, apostle, or, mission.
+SALIH, apostle.
+SALIL, despicable.
+SALIM, peace, safety.
+SALMAN, peaceful.
+SAMAD, everlasting.
+SAMAH, The Elevated.
+SAMAHALI-YANAF, the name of several kings of the Himyarites.
+SAMAYDA, the chief of a tribe of Katoora Arabs.
+SAMEER, night thoughts.
+SAMI, exalted, sublime.
+SAMIR, night thoughts.
+SAVA, wine imbiber.
+SAYYID, a lord.
+SHÁDÍ, delight, joy, pleasure.
+SHAFAQAT, compassion, mercy.
+SHAFIQ, kindness.
+SHAHIR, celebrated, famous.
+SHAHIRA, celebrated, famous.
+SHAKEEL, handsome.
+SHAKIL, handsome.
+SHAKIR, grateful, thankful.
+SHAMAS, The Sun.
+SHAMMIR, the king of Sabaea.
+SHAREEF, noble.
+SHARHABIL, a king of Saba.
+SHARIF, noble.
+SHEBA, Abdshems.
+SHEDAD (شدّاد), strong.
+SHEDID (شديد), strong.
+SHEMS, the Sun.
+SHIHAB, bright stars.
+SHOAIB, the son of Dhu-mahdam.
+SHUKRI, giving thanks.
+SIMA'A, wolf-hyaena.
+SIMDAN, The Powerful.
+SOHAIL, the star Canopus adored as a divinity.
+SUHAIL, Canopus.
+SUHAYL, Canopus.
+SULAIMAN, Solomon, peaceful.
+SULAYMAN, Solomon, peaceful.
+SULTAN, a ruler.
+TAHIR, clean, immaculate.
+TAITI, a Libyan chief; Didi.
+TALIB, student.
+TALIBA, student.
+
+TALIBAH, student.
+
+TAREK, night-comer.
+TARIQ, night-comer.
+TAWFIQ, grace, guidance; favour of God; good success.
+TAYMI, the local deity of the town of Taym.
+TEHAR, the father of Abiyateh and Aimu.
+THANNYROS, a king of Libya.
+THEIR, Tehar.
+TOBBA-SHARAHBIL, the successor of Dhamarali-Bayyin.
+TUFAIL, mediation.
+TUFAYL, mediation.
+UMAR, cultivated; abundant, rich.
+URTAAL, The Supreme Light.
+USAMA, lion-like.
+USAMAH, lion-like.
+USMAN, baby bustard.
+UTHMAN, baby bustard.
+VAITEH, the name of two kings of the Arabs.
+WABU, a usurper.
+WADD, a deity of the Himyarites.
+WAFA, complete, fulfil.
+WAFI, complete, fulfil.
+WAHABA-IL-YAHAT, an early Himyaritic monarch.
+WAHEB, bestower of benefits.
+WAHEED, unique.
+WAHHAB, bestower of benefits.
+WÁHID, one.
+WALID, procreator.
+WASEEF, young man-servant.
+WASI, spacious.
+WASIF, young man-servant.
+WASIM, beautiful, elegant, handsome.
+WATHIL, the son of Himyar.
+WATR-IL-DHARAH, the son of Yadhar Malik.
+YADAIL-BAYYIN, a king of the Himyarites.
+YADAIL-DHALI, a king of the Himyarites.
+YADAIL-DHARAH I., a king of the Himyarites.
+YADAIL-WATR, a king of the Himyarites.
+YADHAR-MALIK, a Himyaritic sovereign.
+YAFAR, the king of Sabaea.
+YAGHUTH, Fire.
+YAHYA, John.
+YAKRAB-MALIK-WATR, a king of the Himyarites.
+YALA, the son of Hasan.
+YAMIN, right.
+YARUB, the son of Kahtan.
+YASHDJOB, the son of Yarub.
+YASIR, little, small.
+YASSER, little, small.
+YATA-AMIR, a king of Sabaea.
+YATAL-BAYYIN, a petty king of Saba.
+YATHA, Saviour God.
+Yatha-Amir-Watr, a king of the Himyarites.
+Yath-Amir-Bayyin, the name of two kings of the Himyarites.
+YAUK, a Sabaean god of the sun.
+YAUTAH, Vaiteh.
+YOUSEF, Joseph.
+YOUSSEF, Joseph.
+YUNUS, Jonah, dove.
+YUSEF, Joseph.
+YUSHUA, Joshua.
+YUSSUF, Joseph.
+YUSUF, Joseph.
+YWAITE, Vaiteh.
+ZAHI, from Zah
+ZAHID, abstinent, religious; an ascetic.
+ZAHIR, aide, helper, protector.
+ZAID, growth, surplus.
+ZAIN, adorning.
+ZAKI, virtuous.
+ZAMAN, Time.
+ZAMIR, a singer.
+ZAYD, growth, surplus.
+ZAYN, adorning.
+ZEITUN, olive.
+ZIA, clearness, glare, luminary.
+ZIAD, growth.
+ZIYA, clearness, glare, luminary.
+ZIYAD, growth.
+ZUHAL, the planet Saturn adored as a deity.
+ZULFAQAR, divider, (split-pointed sword).
+ZULFIKAR, divider, (split-pointed sword).
+ZULFIQAR, divider, (split-pointed sword).
