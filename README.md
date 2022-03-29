@@ -23,7 +23,7 @@
             </ol>
     </center>
     <div align="center">
-        <p>The bot in the analysis bot folder is for analysing the data that I extracted in the finished folder. I got the data from <a href="http://www.20000-names.com/">20000 Names website.</a></p>
+        <h3><p>The bot in the analysis bot folder is for analysing the data that I extracted in the finished folder. I got the data from <a href="http://www.20000-names.com/">20000 Names website.</a></p></h3>
     </div>
     <div align = "center"><img src="https://i.ibb.co/vjbgQ6f/simple-search-engine.png" alt="simple-search-engine" border="0"></div>
 </body>
